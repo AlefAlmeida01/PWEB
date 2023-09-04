@@ -1,0 +1,47 @@
+body {
+    background: aliceblue;
+}
+
+img {
+    width: 400px;
+    height: 360px;
+}
+
+fieldset {
+    color: #352F44;
+}
+
+h1 {
+    color: aliceblue;
+    font: fantasy;
+}
+
+fieldset{
+    background: #352F44;
+}
+
+aside{
+    background: aliceblue;
+    border: 1px solid;
+    padding: 20px;
+    float: right;
+    width: 300px;
+}
+
+aside h3 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+aside ol {
+    font-size: 16px;
+}
+
+section {
+    float: left;
+    width: 660px;
+}
+
+.clear{
+    clear: both;
+}
